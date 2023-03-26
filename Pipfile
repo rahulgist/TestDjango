@@ -10,3 +10,4 @@ Django = "4.1.7"
 
 [requires]
 python_version = "3.11"
+
